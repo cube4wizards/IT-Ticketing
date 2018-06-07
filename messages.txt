@@ -1,0 +1,17 @@
+pmordoha|smurf|RAM|4
+cube4wizards|Actoz|Lag|5
+break
+Dkitten|OGPlanet|Terribleness|4
+Winter|OGPlanet|Firewall|3
+jdoe|???|WiFi Password?|2
+Winter|OGPlanet|Firewall|3
+bsmith|???|Website issue|1
+break
+Winter|Actoz|Firewall|5
+trecks|???|Access Doc Server?|2
+Winter|Actoz|Lag|5
+cube4wizards|Actoz|Wild Shot|5
+cube4wizards|Actoz|Flak Blast|1
+cube4wizards|Actoz|Meteor Shot|4
+derpface|Nowhere|Nothing|0
+Thisone|shouldn'tbe|Archived either|6
